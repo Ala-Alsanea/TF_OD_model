@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+class_map.pbtxt
+dataset_roboflow/*
+dataset_sketch_it/*
+new_dataset/*
+train_and_test/*
+Tensorflow
+ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz
